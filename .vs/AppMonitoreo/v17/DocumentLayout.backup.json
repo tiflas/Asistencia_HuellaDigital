@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|c:\\users\\jailer07\\source\\repos\\appmonitoreo\\models\\conn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|solutionrelative:models\\conn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|c:\\users\\jailer07\\source\\repos\\appmonitoreo\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|solutionrelative:appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\models\\modelsbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|solutionrelative:models\\modelsbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\frmverificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|solutionrelative:frmverificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|c:\\users\\jailer07\\source\\repos\\appmonitoreo\\modulousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|solutionrelative:modulousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\modulousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|solutionrelative:modulousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\configuracionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|solutionrelative:configuracionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\configuracionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|solutionrelative:configuracionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\agregarempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|solutionrelative:agregarempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|solutionrelative:menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|solutionrelative:menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D362F3-1A81-4E67-9947-483B832E2DCD}|AppMonitoreo.csproj|solutionrelative:registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 40,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conn.cs",
+              "DocumentMoniker": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\Models\\Conn.cs",
+              "RelativeDocumentMoniker": "Models\\Conn.cs",
+              "ToolTip": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\Models\\Conn.cs",
+              "RelativeToolTip": "Models\\Conn.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:18:47.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsetting.json",
+              "DocumentMoniker": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\appsetting.json",
+              "RelativeDocumentMoniker": "appsetting.json",
+              "ToolTip": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\appsetting.json",
+              "RelativeToolTip": "appsetting.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T15:18:31.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfiguracionUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\ConfiguracionUsuario.cs",
+              "RelativeDocumentMoniker": "ConfiguracionUsuario.cs",
+              "ToolTip": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\ConfiguracionUsuario.cs",
+              "RelativeToolTip": "ConfiguracionUsuario.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAADgv2sAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T03:47:30.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConfiguracionUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\ConfiguracionUsuario.cs",
+              "RelativeDocumentMoniker": "ConfiguracionUsuario.cs",
+              "ToolTip": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\ConfiguracionUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConfiguracionUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T03:47:20.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuAdmin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\MenuAdmin.cs",
+              "RelativeDocumentMoniker": "MenuAdmin.cs",
+              "ToolTip": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\MenuAdmin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MenuAdmin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:02:28.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmVerificar.cs",
+              "DocumentMoniker": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\FrmVerificar.cs",
+              "RelativeDocumentMoniker": "FrmVerificar.cs",
+              "ToolTip": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\FrmVerificar.cs",
+              "RelativeToolTip": "FrmVerificar.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwFMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:37:52.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModelsBD.cs",
+              "DocumentMoniker": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\Models\\ModelsBD.cs",
+              "RelativeDocumentMoniker": "Models\\ModelsBD.cs",
+              "ToolTip": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\Models\\ModelsBD.cs",
+              "RelativeToolTip": "Models\\ModelsBD.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAJgBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T17:50:59.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AgregarEmpresa.cs",
+              "DocumentMoniker": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\AgregarEmpresa.cs",
+              "RelativeDocumentMoniker": "AgregarEmpresa.cs",
+              "ToolTip": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\AgregarEmpresa.cs",
+              "RelativeToolTip": "AgregarEmpresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:30:41.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModuloUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\ModuloUsuario.cs",
+              "RelativeDocumentMoniker": "ModuloUsuario.cs",
+              "ToolTip": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\ModuloUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ModuloUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:52:30.477Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\MenuAdmin.cs",
+              "RelativeDocumentMoniker": "MenuAdmin.cs",
+              "ToolTip": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\MenuAdmin.cs",
+              "RelativeToolTip": "MenuAdmin.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:43:46.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModuloUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\ModuloUsuario.cs",
+              "RelativeDocumentMoniker": "ModuloUsuario.cs",
+              "ToolTip": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\ModuloUsuario.cs",
+              "RelativeToolTip": "ModuloUsuario.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAcwDwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:23:31.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Registrar.cs",
+              "DocumentMoniker": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\Registrar.cs",
+              "RelativeDocumentMoniker": "Registrar.cs",
+              "ToolTip": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\Registrar.cs",
+              "RelativeToolTip": "Registrar.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAjwGcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:12:13.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\JAILER07\\source\\repos\\AppMonitoreo\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:47:13.06Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
